@@ -1,11 +1,11 @@
 
 
 import { Routes, Route, Link } from "react-router-dom"
-import Home from "./pages/Home"
-import Agence from "./pages/Agence"
-import Projects from "./pages/Projects"
-import Navbar from "./Componets/Navigation/Navbar"
-import FullscreenNav from "./Componets/Navigation/FullscreenNav"
+import Home from "./pages/Home.jsx"
+import Agence from "./pages/Agence.jsx"
+import Projects from "./pages/Projects.jsx"
+import Navbar from "./Componets/Navigation/Navbar.jsx"
+import FullscreenNav from "./Componets/Navigation/FullscreenNav.jsx"
 
 const App = () => {
   return (

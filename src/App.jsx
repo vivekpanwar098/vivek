@@ -4,8 +4,8 @@ import { Routes, Route, Link } from "react-router-dom"
 import Home from "./pages/Home.jsx"
 import Agence from "./pages/Agence.jsx"
 import Projects from "./pages/Projects.jsx"
-import Navbar from "./Components/Navigation/Navbar.js"
-import FullscreenNav from "./Components/Navigation/FullscreenNav.js"
+import Navbar from "./Components/Navigation/Navbar.jsx"
+import FullscreenNav from "./Components/Navigation/FullscreenNav.jsx"
 
 const App = () => {
   return (
